@@ -30,9 +30,9 @@ export default function Home() {
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
               src/app/page.tsx
             </code>
-            .
+            
           </li>
-          <li>ae caraio</li>
+          <li><a href="https://braintechparaty.vercel.app/" target="_blank">Login</a></li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
