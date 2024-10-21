@@ -1,5 +1,5 @@
 export default function Login() {
     return (
-        <p>Página de Login</p>
+        <span>login</span>
     );
 }
