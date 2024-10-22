@@ -1,4 +1,5 @@
-export { HomeIcon , LoginIcon } from "./Icons/Icons";
-// export { LoginIcon } from "."
+// export { HomeIcon , LoginIcon , FaleConoscoIcon , UsuarioIcon } from "./Icons/Icons";
+export * from "./Icons/Icons";
+
 export { Navbar } from "./Navbar/Navbar";
 
