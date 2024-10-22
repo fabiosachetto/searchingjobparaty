@@ -1,5 +1,5 @@
 //https://www.svgrepo.com/svg/501048/user?edit=true
-export const UsuarioIcon = ({ color="currentColor" , className="" }) => {
+export const UsuarioIcon = ({ color = "currentColor" , className = "" }) => {
     return (
         <svg fill={color} className={className} viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
             <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
