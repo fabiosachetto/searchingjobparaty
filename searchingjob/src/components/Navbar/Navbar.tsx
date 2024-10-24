@@ -19,7 +19,7 @@ export const Navbar = ({className , ...props}: NavbarProps) => {
           <div className="flex items-center justify-center">
             <h1>
               <Image 
-                src="https://github.com/fabiosachetto/searchingjobparaty/blob/navbar/searchingjob/src/app/img/logo.png?raw=true"
+                src="https://github.com/fabiosachetto/searchingjobparaty/blob/navbar/searchingjob/src/app/img/logo.png"
                 alt="Searching Job Paraty"
                 className="w-auto h-40 p-2"
                 width={214}
