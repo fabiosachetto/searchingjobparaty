@@ -21,6 +21,7 @@ export const Navbar = ({className , ...props}: NavbarProps) => {
               <Image 
                 src="https://github.com/fabiosachetto/searchingjobparaty/blob/navbar/searchingjob/src/app/img/logo.png?raw=true"
                 alt="Searching Job Paraty"
+                title="Searching Job Paraty"
                 className="w-auto h-40 p-2"
                 width={256}
                 height={256}
