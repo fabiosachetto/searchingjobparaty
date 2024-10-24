@@ -3,10 +3,10 @@
 export default function Home() {
   return (
     // <div className="grid grid-rows-[20px_1fr_20px] items-center min-h-screen p-8 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-    <div className="flex h-screen flex-col items-center w-full font-[family-name:var(--font-geist-sans)]">
-      <h1 className="table w-full">Searching Job Paraty</h1>
+    <div className="ml-64 items-center font-[family-name:var(--font-geist-sans)]">
+      <h1 className="">Searching Job Paraty</h1>
 
-      <main className="bg-orange-400 table w-full flex-grow">
+      <main className="bg-orange-400">
         <section className="">
             <form className="" id="form-login">
                 <h2>Digite seu E-mail e Senha para acessar.</h2>
@@ -23,7 +23,7 @@ export default function Home() {
         </section>
       </main>
 
-      <footer className="bg-amber-400 table w-full">
+      <footer className="bg-amber-400">
           <p>2024 - Brain Tech Paraty. Todos os direitos reservados.</p>
           <section>
               <span>

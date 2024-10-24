@@ -27,7 +27,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-br">
-      <body className={classname("flex bg-fuchsia-950" , geistSans.className , geistMono.className) }>
+      <body className={classname("bg-fuchsia-950" , geistSans.className , geistMono.className) }>
         
         <Navbar />
 

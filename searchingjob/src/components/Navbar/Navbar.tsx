@@ -10,7 +10,7 @@ import Image from "next/image";
 
 export const Navbar = ({className , ...props}: NavbarProps) => {
     return (
-        <nav className={classname("flex h-screen flex-col bg-fuchsia-900 border border-fuchsia-300 hover:border-fuchsia-700 w-64 p-3",
+        <nav className={classname("fixed top-0 left-0 flex h-screen flex-col bg-fuchsia-900 border border-fuchsia-300 hover:border-fuchsia-700 w-64 p-3",
           className
         )}
         {...props}
