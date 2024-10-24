@@ -26,8 +26,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={classname("flex gap-2 bg-fuchsia-950" , geistSans.className , geistMono.className) }>
+    <html lang="pt-br">
+      <body className={classname("flex bg-fuchsia-950" , geistSans.className , geistMono.className) }>
         
         <Navbar />
 
